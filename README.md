@@ -27,7 +27,7 @@ Computational Learning Model for the Eye Fundus Analysis to Support Medical Diag
 
 Toledo-Cortés, S., De La Pava, M., Perdomo, O., and González, F.A. (2020) Hybrid Deep Learning Gaussian Process for Diabetic Retinopathy Diagnosis and Uncertainty Quantification, arXiv preprint.
 
-![](https://raw.githubusercontent.com/stoledoc/santiagotoledo/master/Results_Messidor2.jpg)
+![](https://raw.githubusercontent.com/stoledoc/santiagotoledo/master/OMIA_results.png)
 [Code](https://github.com/stoledoc/DLGP-DR-Diagnosis)
 
 ### Multimodal Machine Learning Model to Support Medical Diagnosis on Eye Diseases
@@ -41,7 +41,7 @@ Toledo-Cortés, S., De La Pava, M., Perdomo, O., and González, F.A. (2020) Hybr
 
 ## Datasets
 
-### Eye Fundus Images and medical writen reports (english / spanish)
+###  2000 eye fundus images and medical writen reports (english / spanish)
 ![](https://raw.githubusercontent.com/stoledoc/santiagotoledo/master/16_left.jpeg)
 
 **[ENG]**
@@ -52,7 +52,7 @@ Toledo-Cortés, S., De La Pava, M., Perdomo, O., and González, F.A. (2020) Hybr
 
 - Foto color de polo posterior del ojo derecho, opacidad leve de medios, disco de bordes bien definidos, con leve palidez. Se observa la presencia de neo-vascularización a nivel del nervio óptico que existe que se extiende hacia arcadas superiores e inferiores. Se observa en todo el polo posterior múltiples hemorragias en punto y en llama asociado a presencia de exudación en la región macular central. También se observan múltiples manchas blancas algodonosas sobre el aspecto superior-temporal. Diagnóstico: Retinopatía diabética proliferativa y edema macular diabético moderado.
 
-### Eye Fundus Images with clinical findings of refereable subjects
+### 2200 eye fundus images with clinical findings of refereable subjects
 
 ![](https://raw.githubusercontent.com/stoledoc/santiagotoledo/master/IM0092.000.png)
 - Presence of:
