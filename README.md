@@ -56,14 +56,14 @@ Toledo-Cortés, S., De La Pava, M., Perdomo, O., and González, F.A. (2020) Hybr
 
 ![](https://raw.githubusercontent.com/stoledoc/santiagotoledo/master/IM0092.000.png)
 - Presence of:
-Aneurysms
-Hemorrhages
-Cotton-wool spots
+Aneurysms,
+Hemorrhages and
+Cotton-wool spots.
 
 - No presence of:
-Venous beading
-Neovascularization
-Exudates
+Venous beading,
+Neovascularization and
+Exudates.
 
 **Diagnosis:**
 _Referable patient_
