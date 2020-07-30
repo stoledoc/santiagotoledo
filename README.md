@@ -15,9 +15,9 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ip
 
 Computational Learning Model for the Eye Fundus Analysis to Support Medical Diagnosis
 
-![](https://www.elespectador.com/resizer/UEV93vwZh3dtjbdi1ey4iMpD4Iw=/657x0/cloudfront-us-east-1.images.arcpublishing.com/elespectador/OHBWB33N75B6FKG3Y6BPIQHF5I.jpg)
+[News](https://www.elespectador.com/resizer/UEV93vwZh3dtjbdi1ey4iMpD4Iw=/657x0/cloudfront-us-east-1.images.arcpublishing.com/elespectador/OHBWB33N75B6FKG3Y6BPIQHF5I.jpg)
 
-[News](https://www.elespectador.com/noticias/tecnologia/cinco-proyectos-colombianos-ganaron-en-los-premios-de-investigacion-lara-de-google/)
+[https://www.elespectador.com/noticias/tecnologia/cinco-proyectos-colombianos-ganaron-en-los-premios-de-investigacion-lara-de-google/](Link)
 
 ## Currently projects
 
@@ -29,13 +29,13 @@ Toledo-Cortés, S., De La Pava, M., Perdomo, O., and González, F.A. (2020) Hybr
 
 ### Multimodal Machine Learning Model to Support Medical Diagnosis on Eye Diseases
 
-![](https://github.com/stoledoc/santiagotoledo/blob/master/Multimodal_problems.png)
+![](https://raw.githubusercontent.com/stoledoc/santiagotoledo/master/Multimodal_problems.png)
 
 [Slides](https://github.com/stoledoc/santiagotoledo/blob/master/PhD%20Qualifying%20Exam_SantiagoToledo.pdf)
 
 ###  SOPHIA: System for OPHthalmic image acquisition, transmission, and Intelligent Analysis
 
-![](https://github.com/stoledoc/santiagotoledo/blob/master/image_system_blue.png)
+![](https://raw.githubusercontent.com/stoledoc/santiagotoledo/master/image_system_blue.png)
 
 ## **Datasets**
 
@@ -44,7 +44,7 @@ Toledo-Cortés, S., De La Pava, M., Perdomo, O., and González, F.A. (2020) Hybr
 - Bulleted
 - List
 
-### Eye Fundus Images with clinical findings in refereable subjects
+### Eye Fundus Images with clinical findings of refereable subjects
 
 1. Numbered
 2. List
