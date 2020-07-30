@@ -1,5 +1,5 @@
 # Santiago Toledo Cortés
-
+[Machine learning, perception and discovery Lab](http://www.ingenieria.unal.edu.co/mindlab/)
 ## Biography
 ![](https://ingenieria.unal.edu.co/mindlab/wp-content/uploads/2019/03/IMG-20160407-WA0007-177x300.jpg)
 
@@ -39,29 +39,30 @@ Toledo-Cortés, S., De La Pava, M., Perdomo, O., and González, F.A. (2020) Hybr
 
 ![](https://raw.githubusercontent.com/stoledoc/santiagotoledo/master/image_system_blue.png)
 
-## **Datasets**
+## Datasets
 
-### Eye Fundus Images and medical writen reports
-
-- Bulleted
-- List
+### Eye Fundus Images and medical writen reports (english / spanish)
+![](https://raw.githubusercontent.com/stoledoc/santiagotoledo/master/16_left.jpeg)
+**[ENG]**
+- Color photo of the posterior pole of the right eye, slight opacity of the media, a disc with well-defined edges, with slight pallor. The presence of neovascularization is observed at the level of the optic nerve that exists extending to the upper and lower arches. Multiple points and flame hemorrhages are observed throughout the posterior pole, associated with the presence of exudation in the central macular region. Multiple cottony white spots are also seen on the super-temporal aspect. Diagnosis: Proliferative diabetic retionpathy and moderate diabetic macular edema.
+**[SPA]**
+- Foto color de polo posterior del ojo derecho, opacidad leve de medios, disco de bordes bien definidos, con leve palidez. Se observa la presencia de neo-vascularización a nivel del nervio óptico que existe que se extiende hacia arcadas superiores e inferiores. Se observa en todo el polo posterior múltiples hemorragias en punto y en llama asociado a presencia de exudación en la región macular central. También se observan múltiples manchas blancas algodonosas sobre el aspecto superior-temporal. Diagnóstico: Retinopatía diabética proliferativa y edema macular diabético moderado.
 
 ### Eye Fundus Images with clinical findings of refereable subjects
 
-1. Numbered
-2. List
+![](https://raw.githubusercontent.com/stoledoc/santiagotoledo/master/IM0092.000.png)
+- Presence of:
+Aneurysms
+Hemorrhages
+Cotton-wool spots
 
-**Bold** and _Italic_ and `Code` text
+- No presence of:
+Venous beading
+Neovascularization
+Exudates
 
-[Link](url) and ![Image](src)
+**Diagnosis:**
+_Referable patient_
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stoledoc/santiagotoledo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###To download the dataset please send an email address to stoledoc@unal.edu.co. I will send you the information on how to obtain the dataset once it's ready to be downloaded.
