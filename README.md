@@ -7,9 +7,9 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ip
 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 
-[https://www.linkedin.com/in/santiago-toledo-cort%C3%A9s-66964a54/?originalSubdomain=co](LinkedIn)
+[LinkedIn](https://www.linkedin.com/in/santiago-toledo-cort%C3%A9s-66964a54/?originalSubdomain=co)
 
-[https://www.researchgate.net/profile/Santiago_Toledo_Cortes](Researchgate)
+[Researchgate](https://www.researchgate.net/profile/Santiago_Toledo_Cortes)
 
 ## Awards
 
@@ -25,16 +25,17 @@ Computational Learning Model for the Eye Fundus Analysis to Support Medical Diag
 
 Toledo-Cortés, S., De La Pava, M., Perdomo, O., and González, F.A. (2020) Hybrid Deep Learning Gaussian Process for Diabetic Retinopathy Diagnosis and Uncertainty Quantification, arXiv preprint.
 
-[https://github.com/stoledoc/DLGP-DR-Diagnosis](Code)
+[Code](https://github.com/stoledoc/DLGP-DR-Diagnosis)
+
+### Multimodal Machine Learning Model to Support Medical Diagnosis on Eye Diseases
+
+![](https://github.com/stoledoc/santiagotoledo/blob/master/image_system_blue.png)
+
+[Slides]()
 
 ###  SOPHIA: System for OPHthalmic image acquisition, transmission, and Intelligent Analysis
 
 ![](https://github.com/stoledoc/santiagotoledo/blob/master/image_system_blue.png)
-
-###  **Multimodal Machine Learning Model to Support Medical Diagnosis on Eye Diseases**
-
-Ocular diseases are one of the main causes of irreversible inability of persons in productive age. In Colombia and other developing countries, due to the low coverage of public health systems, the lack of medical specialists and the high cost of specialized medical exams, less than half of the patients are correctly diagnosed. The diagnosis of these diseases heavily relies on medical diagnostic images, such as eye fundus images, angiography and optical coherence tomography which are acquired using specialized equipment. Several recent research  works have shown the feasibility and utility of automatic analysis of these images to support diagnostic processes. In addition, the development of multimodal learning models has shown that the combination of different sources of information helps in retrieval and classifications tasks related to medical images. This research aims to design and implement multimodal learning systems for the processing of medical diagnostic images and medical records, oriented to detection and classification of eye pathologies. These multimodal systems imply in turn challenges of learning representation and fusion mechanisms, and have a variety of applications beyond the classification problems, which will help to validate the obtained results.
-{: .text-justify}
 
 ## **Datasets**
 
