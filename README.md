@@ -43,9 +43,13 @@ Toledo-Cortés, S., De La Pava, M., Perdomo, O., and González, F.A. (2020) Hybr
 
 ### Eye Fundus Images and medical writen reports (english / spanish)
 ![](https://raw.githubusercontent.com/stoledoc/santiagotoledo/master/16_left.jpeg)
+
 **[ENG]**
+
 - Color photo of the posterior pole of the right eye, slight opacity of the media, a disc with well-defined edges, with slight pallor. The presence of neovascularization is observed at the level of the optic nerve that exists extending to the upper and lower arches. Multiple points and flame hemorrhages are observed throughout the posterior pole, associated with the presence of exudation in the central macular region. Multiple cottony white spots are also seen on the super-temporal aspect. Diagnosis: Proliferative diabetic retionpathy and moderate diabetic macular edema.
+
 **[SPA]**
+
 - Foto color de polo posterior del ojo derecho, opacidad leve de medios, disco de bordes bien definidos, con leve palidez. Se observa la presencia de neo-vascularización a nivel del nervio óptico que existe que se extiende hacia arcadas superiores e inferiores. Se observa en todo el polo posterior múltiples hemorragias en punto y en llama asociado a presencia de exudación en la región macular central. También se observan múltiples manchas blancas algodonosas sobre el aspecto superior-temporal. Diagnóstico: Retinopatía diabética proliferativa y edema macular diabético moderado.
 
 ### Eye Fundus Images with clinical findings of refereable subjects
