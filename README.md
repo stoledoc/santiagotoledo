@@ -65,4 +65,4 @@ Exudates
 _Referable patient_
 
 ```
-###To download the dataset please send an email address to stoledoc@unal.edu.co. I will send you the information on how to obtain the dataset once it's ready to be downloaded.
+To download the dataset please send an email address to stoledoc@unal.edu.co. I will send you the information on how to obtain the dataset once it's ready to be downloaded.
