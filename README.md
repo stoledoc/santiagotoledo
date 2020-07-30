@@ -15,9 +15,9 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ip
 
 Computational Learning Model for the Eye Fundus Analysis to Support Medical Diagnosis
 
-[News](https://www.elespectador.com/resizer/UEV93vwZh3dtjbdi1ey4iMpD4Iw=/657x0/cloudfront-us-east-1.images.arcpublishing.com/elespectador/OHBWB33N75B6FKG3Y6BPIQHF5I.jpg)
+![](https://www.elespectador.com/resizer/UEV93vwZh3dtjbdi1ey4iMpD4Iw=/657x0/cloudfront-us-east-1.images.arcpublishing.com/elespectador/OHBWB33N75B6FKG3Y6BPIQHF5I.jpg)
 
-[https://www.elespectador.com/noticias/tecnologia/cinco-proyectos-colombianos-ganaron-en-los-premios-de-investigacion-lara-de-google/](Link)
+[News](https://www.elespectador.com/noticias/tecnologia/cinco-proyectos-colombianos-ganaron-en-los-premios-de-investigacion-lara-de-google/)
 
 ## Currently projects
 
