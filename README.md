@@ -21,7 +21,7 @@ Computational Learning Model for the Eye Fundus Analysis to Support Medical Diag
 
 [News](https://www.elespectador.com/noticias/tecnologia/cinco-proyectos-colombianos-ganaron-en-los-premios-de-investigacion-lara-de-google/)
 
-## Currently projects
+## Current projects
 
 ###  Deep Learning Gaussian Process for Diabetic Retinopathy Diagnosis
 
